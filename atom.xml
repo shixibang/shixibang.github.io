@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shixibang.github.io</id>
+    <title>实习帮</title>
+    <updated>2022-10-08T02:50:33.011Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shixibang.github.io"/>
+    <link rel="self" href="https://shixibang.github.io/atom.xml"/>
+    <subtitle>一站式大学生云实习网</subtitle>
+    <logo>https://shixibang.github.io/images/avatar.png</logo>
+    <icon>https://shixibang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 实习帮</rights>
+    <entry>
+        <title type="html"><![CDATA[本站为地址发布页，请保存此网页]]></title>
+        <id>https://shixibang.github.io/post/你好，同学/</id>
+        <link href="https://shixibang.github.io/post/你好，同学/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>实习帮</strong> ！<br>
+✍️  <strong>实习帮</strong> 一站式大学生云实习网。专注解决大学生实习时间不合理问题... ...<br>
+🌎  为防止失联，这里将持续更新购买地址:<a href="http://www.shixibang.tk">点击进入购买页</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>实习帮</strong> ！<br>
+✍️  <strong>实习帮</strong> 一站式大学生云实习网。专注解决大学生实习时间不合理问题... ...<br>
+🌎  为防止失联，这里将持续更新购买地址:<a href="http://www.shixibang.tk">点击进入购买页</a></p>
+<!-- more -->
+<h2 id="服务内容">服务内容👇</h2>
+<p>📝  服务内容：大学生实习证明、实习证明盖章、实习三方协议、实习鉴定表、实习盖章。</p>
+<p>🌉  所有商品邀请注册/分享购买 即可获得10%返利 【账号中心】微信/支付宝 提现。</p>
+<p>🌎  更多企业正在业务对接中......</p>
+<p>💻 所有企业支持上传校友邦。</p>
+<p>🚫  钉钉远程打卡（开发中...）QQ/微信登陆（开发中...）</p>
+<p>💬  售前客服QQ：<a href="https://wpa.qq.com/msgrd?v=1&amp;uin=1006827006">1006827006</a></p>
+<p>🌱 当然 <strong>实习帮</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>业务修改意见请联系<a href="https://work.weixin.qq.com/u/vc5b522d217429ebf4?v=4.0.16.100358&amp;src=wx">企业微信</a></p>
+<p>自由支配你的时间吧！</p>
+]]></content>
+    </entry>
+</feed>
